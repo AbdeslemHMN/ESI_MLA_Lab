@@ -1,0 +1,14 @@
+artifact_uri: file:///home/abdeslem/Folders/2CS/S2/MLA/TPs/TP10_MLops/mlops_tp1_project/mlruns/236275864770850068/0f61fdf18efd44acbc33ea32635a4ca9/artifacts
+end_time: 1779589661113
+entry_point_name: ''
+experiment_id: '236275864770850068'
+lifecycle_stage: active
+run_id: 0f61fdf18efd44acbc33ea32635a4ca9
+run_name: rf_200_depth_8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779589650802
+status: 3
+tags: []
+user_id: abdeslem

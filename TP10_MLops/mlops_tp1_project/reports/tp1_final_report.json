@@ -1,0 +1,15 @@
+{
+  "best_run_name": "logreg_C_1.0",
+  "best_config": {
+    "run_name": "logreg_C_1.0",
+    "model_type": "logreg",
+    "C": 1.0,
+    "max_iter": 500
+  },
+  "test_metrics": {
+    "accuracy": 0.9824561403508771,
+    "precision": 0.9861111111111112,
+    "recall": 0.9861111111111112,
+    "f1": 0.9861111111111112
+  }
+}

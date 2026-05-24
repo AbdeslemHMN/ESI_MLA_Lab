@@ -1,0 +1,14 @@
+artifact_uri: file:///home/abdeslem/Folders/2CS/S2/MLA/TPs/TP10_MLops/mlops_tp1_project/mlruns/236275864770850068/cfde8aea5ee442c8a4d2de7d28e147f9/artifacts
+end_time: 1779589642465
+entry_point_name: ''
+experiment_id: '236275864770850068'
+lifecycle_stage: active
+run_id: cfde8aea5ee442c8a4d2de7d28e147f9
+run_name: logreg_C_1.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779589635976
+status: 3
+tags: []
+user_id: abdeslem

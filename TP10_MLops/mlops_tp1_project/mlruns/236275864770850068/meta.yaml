@@ -1,0 +1,8 @@
+artifact_location: file:///home/abdeslem/Folders/2CS/S2/MLA/TPs/TP10_MLops/mlops_tp1_project/mlruns/236275864770850068
+creation_time: 1779588313522
+experiment_id: '236275864770850068'
+last_update_time: 1779588313522
+lifecycle_stage: active
+name: TP1_MLflow_Reproducibility
+trace_location: null
+workspace: default
